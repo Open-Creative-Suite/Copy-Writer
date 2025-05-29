@@ -1,6 +1,6 @@
-# Contributing to Copy Writer
+# Contributing to Copywriter
 
-Thank you for your interest in contributing to **Copy Writer**, part of the Open Creative Suite!
+Thank you for your interest in contributing to **Copywriter**, part of the Open Creative Suite!
 
 **This project is in its very early stages.**  
 Right now, the repository only contains a README and a GPL-3.0 license. There is no codebase yet—this is a call for help to get things started!
