@@ -1,9 +1,9 @@
-# ![Cw (Custom)](https://github.com/user-attachments/assets/608938af-6866-4f1e-8bce-c4afe71156dd) Copy Writer
+# ![Cw (Custom)](https://github.com/user-attachments/assets/608938af-6866-4f1e-8bce-c4afe71156dd) Copywriter
 
-**Copy Writer** is part of **Open Creative Suite**—a free and open-source alternative to Adobe Creative Suite, designed for creative professionals.
+**Copywriter** is part of **Open Creative Suite**—a free and open-source alternative to Adobe Creative Suite, designed for creative professionals.
 
 **Project Vision:**  
-The goal is to make Copy Writer instantly familiar to users of Adobe InCopy, so creative professionals can switch without having to relearn workflows. The long-term milestone is for all Open Creative Suite apps to work together as a seamless ecosystem.
+The goal is to make Copywriter instantly familiar to users of Adobe InCopy, so creative professionals can switch without having to relearn workflows. The long-term milestone is for all Open Creative Suite apps to work together as a seamless ecosystem.
 
 Many FOSS creative projects have dated UI/UX and lack true integration. My aim is to build a modern, intuitive experience and a real ecosystem where apps from this suite and other projects can work together seamlessly.
 
@@ -21,7 +21,7 @@ I am not a developer or a UI/UX designer, just someone fed up with Adobe and the
 - Open a discussion if you have ideas or questions.
 - See CONTRIBUTING.md for guidelines.
 
-*Copy Writer is just one app in Open Creative Suite. If you’re interested in helping with other apps (vector design, desktop publishing, etc.), please reach out or check the other repositories!*
+*Copywriter is just one app in Open Creative Suite. If you’re interested in helping with other apps (vector design, desktop publishing, etc.), please reach out or check the other repositories!*
 
 ---
 
